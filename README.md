@@ -43,13 +43,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+    <img src="https://th.bing.com/th/id/R.da53dc3418ca99ce8fec3846274d9cb8?rik=7Qcec6x2MyB8%2bw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fbootstrap-png-bootstrap-512.png&ehk=BlRbDLn1AD%2f9puV15VDXoihIzzttL%2bYGFjbEx6uC2cI%3d&risl=&pid=ImgRaw&r=0" width="40" height="40" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
+    <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
